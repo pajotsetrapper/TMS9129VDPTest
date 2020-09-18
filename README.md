@@ -11,3 +11,4 @@ Did not take the time to add that functionality, connecting a probe/oscilloscope
 Feel free to contribute :-).
 
 For more info: https://www.msx.org/forum/msx-talk/graphics-and-music/functional-vdp-test-tms9129nl-with-arduino
+Connection diagram & the VDP's programming guide have been added in this project
